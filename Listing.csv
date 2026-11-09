@@ -15,10 +15,10 @@ Time from start,Number,Name,Principal artist,Genre,Polyphonic (P)/Monophonic (M)
 
 1:32:xx,200,White Christmas,Bing Crosby,Christmas,P,B,Too slow!
 
-1:47:32,Jolly goatherd (from Sound of music),,,P,,
-1:47:40,Anna Magdalena notebook,J.S. Bach,Classical,P,,
-1:48:03,Old MacDonald had a farm,,English trad.,P,,
-1:48:28,,,Chinese trad.,M,,All tracks are monophonic from here on
+1:47:32,,Jolly goatherd (from Sound of music),,,P,,
+1:47:40,,Anna Magdalena notebook,J.S. Bach,Classical,P,,
+1:48:03,,Old MacDonald had a farm,,English trad.,P,,
+1:48:28,,,,Chinese trad.,M,,All tracks are monophonic from here on
 
 1:56:23,256,If you're happy and you know it,,English trad.,M,A,
 1:56:45,257,Doe a deer (from Sound of music),,English trad.,M,,
@@ -40,7 +40,7 @@ Time from start,Number,Name,Principal artist,Genre,Polyphonic (P)/Monophonic (M)
 3:18:04,,O come all ye faithful,,Christmas,M,,
 3:19:27,,O tannenbaum,,Christmas,M,,
 3:20:05,,We three kings,,Christmas,M,,
-3:20:56,,,,,,,,
+3:20:56,,,,,,,
 3:21:45,397,Santa Claus is coming to town,,Christmas,M,,
 ,398,Hark the herald angels,,Christmas,M,,
 ,399,God rest ye merry gentlemen,,Christmas,M,,
