@@ -1,11 +1,58 @@
 Time from start,Number,Name,Principal artist,Genre,Polyphonic (P)/Monophonic (M),Rating,Comments
 0:00:06,1,,,,,,
-0:00:47,2,We wish you a merry Christmas,,Christmas,P,A,
+0:00:46,2,We wish you a merry Christmas,,Christmas,P,A,
+
+0:01:12,3,,,,,,
+
+0:02:2X,,Ode to joy,Beethoven,Classical,M,A,
+0:02:51,,Pachelbel canon,Pachelbel,,P,A,
+0:03:24,,,,,P,,
+0:03:57,,Silent night,,Christmas,M,A,
+0:04:42,,Swan Lake,Tchaikovsky,Classical,P,,
+0:05:07,,,,,P,,
+0:05:33,,,,,P,,
+0:06:39,,Clementine,,English trad.,P,,
+0:07:07,,Rock-a-bye baby,,,,B,Slow and stilted rhythm
+0:07:46,,Für elise,Beethoven,Classical,P,B,Some mistakes
+0:08:20,,,,,,,
+0:08:46,,,,,,,
+0:09:27,,,,,,B,Odd voicing
+0:09:42,,,,,,A,
+0:10:11,,If you're happy and you know it,,,,B,Bit slow
+0:10:35,,It's a small world,,,,,
+0:11:09,,,,Chinese trad.,,,
+0:11:28,,,,Chinese trad.,,,
+0:11:50,,,,Chinese trad.,,,
+0:12:22,,,,Chinese trad.,,,
+
+0:19:X,,,,Chinese trad.,M,B,
+0:19:37,,Happy birthday to you,,,M,B,
+0:20:12,,,,Chinese trad.,P,,
+0:20:53,,,,,P,,
+0:21:31,,,,English trad.,P,,
+0:22:06,,,,Chinese pop,P,,
+0:22:28,,Jingle bells,,Christmas,P,,
+0:22:49,,,,,P,,
+0:23:17,,,,Classical,P,,
+0:24:08,,Home on the range,,,,,
+0:24:XX,,,,Chinese pop,P,,
+0:24:51,,,,,P,,
+0:25:08,,,,,M,B,
+0:25:32,,当你孤单你会想起谁,,Chinese pop,P,A,
+0:25:48,,,,,P,,
+0:26:27,,,,Chinese pop,P,,
+0:26:53,,,,,P,,
+0:27:13,,Let it go (from Frozen),,,P,A,
+0:27:52,,Hark the herald angels sing,,Christmas,P,,
+0:28:12,,,,Chinese pop,P,,
+0:29:17,,,,,P,,
 
 0:50:46,,熱帶雨林,S.H.E.,Chinese pop,P,,
 0:51:09,,,,Chinese pop,P,,
 0:51:27,,,,Chinese pop,P,,
 0:51:55,,,,Chinese pop,P,,
+
+,57,L'amour est bleu,,English pop,P,,
 
 0:55:18,,流星雨,,Chinese pop,P,,
 0:55:18,,,,Chinese pop,P,,
@@ -15,10 +62,19 @@ Time from start,Number,Name,Principal artist,Genre,Polyphonic (P)/Monophonic (M)
 
 1:32:xx,200,White Christmas,Bing Crosby,Christmas,P,B,Too slow!
 
+,213,My Grandfather's clock,,English trad.,,,
+,214,Away in the Manger (Tune ii),,Christmas,,,
+
+,218,Santa Claus is coming to town,,Christmas,P,A,
+
+,222,Love story,,English pop,,,
+
 1:47:32,,Jolly goatherd (from Sound of music),,,P,,
-1:47:40,,Anna Magdalena notebook,J.S. Bach,Classical,P,,
+1:47:40,,Minuet in G (Anna Magdalena notebook),J.S. Bach,Classical,P,,
 1:48:03,,Old MacDonald had a farm,,English trad.,P,,
-1:48:28,,,,Chinese trad.,M,,All tracks are monophonic from here on
+1:48:28,240,,,Chinese trad.,M,,All tracks are monophonic from here on
+
+,~248,老鼠愛大米,楊臣剛,Chinese pop,,,
 
 1:56:23,256,If you're happy and you know it,,English trad.,M,A,
 1:56:45,257,Doe a deer (from Sound of music),,English trad.,M,,
@@ -30,6 +86,8 @@ Time from start,Number,Name,Principal artist,Genre,Polyphonic (P)/Monophonic (M)
 1:58:36,263,Hänschen klein,,Classical,,,
 1:58:56,264,Twinkle twinkle little star,,English trad.,M,C,Starts with an inappropriate glissando
 1:59:23,265,,,,,,
+
+,335,朋友,周華健,Chinese pop,M,C,
 
 ,360,Spring mvmt. I (Four Seasons),A. Vivaldi,Classical,M,,
 
