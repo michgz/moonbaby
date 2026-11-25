@@ -8,7 +8,7 @@ Time from start,Number,Name,Principal artist,Genre,Polyphonic (P)/Monophonic (M)
 0:02:51,,Pachelbel canon,Pachelbel,,P,A,
 0:03:24,,,,,P,,
 0:03:57,,Silent night,,Christmas,M,A,
-0:04:42,,Swan Lake,Tchaikovsky,Classical,P,,
+0:04:42,,Swan Lake,Tchaikovsky,Classical,P,,Also known as "Remember" by S.H.E.
 0:05:07,,,,,P,,
 0:05:33,,,,,P,,
 0:06:39,,Clementine,,English trad.,P,,
@@ -19,7 +19,7 @@ Time from start,Number,Name,Principal artist,Genre,Polyphonic (P)/Monophonic (M)
 0:09:27,,,,,,B,Odd voicing
 0:09:42,,,,,,A,
 0:10:11,,If you're happy and you know it,,,,B,Bit slow
-0:10:35,,It's a small world,,,,,
+0:10:35,,It's a small world,,,M,,
 0:11:09,,,,Chinese trad.,,,
 0:11:28,,,,Chinese trad.,,,
 0:11:50,,,,Chinese trad.,,,
@@ -63,7 +63,7 @@ Time from start,Number,Name,Principal artist,Genre,Polyphonic (P)/Monophonic (M)
 1:32:xx,200,White Christmas,Bing Crosby,Christmas,P,B,Too slow!
 
 ,213,My Grandfather's clock,,English trad.,,,
-,214,Away in the Manger (Tune ii),,Christmas,,,
+,214,Away in a Manger (Mueller melody),,Christmas,,,
 
 ,218,Santa Claus is coming to town,,Christmas,P,A,
 
@@ -83,19 +83,19 @@ Time from start,Number,Name,Principal artist,Genre,Polyphonic (P)/Monophonic (M)
 1:57:49,260,,,,,,
 1:58:07,261,,,,,,
 1:58:23,262,,,,,,
-1:58:36,263,Hänschen klein,,Classical,,,
+1:58:36,263,Hänschen klein,,Classical,M,,Also known as "Lightly row" (musical exercise for children)
 1:58:56,264,Twinkle twinkle little star,,English trad.,M,C,Starts with an inappropriate glissando
 1:59:23,265,,,,,,
 
 ,335,朋友,周華健,Chinese pop,M,C,
 
-,360,Spring mvmt. I (Four Seasons),A. Vivaldi,Classical,M,,
+,360,Spring mvmt. I (Four Seasons),Vivaldi,Classical,M,,
 
 3:14:XX,,Joy to the world,,Christmas,M,,
 3:15:19,,The twelve days of Christmas,,Christmas,M,,
 3:16:14,,,,,M,,
 3:16:39,,O little town of Bethlehem,,Christmas,M,,
-3:18:04,,O come all ye faithful,,Christmas,M,C,Inappropriate use of mordents
+3:18:04,,O come all ye faithful,,Christmas,M,C,Over-use of mordents
 3:19:27,,O Tannenbaum,,Christmas,M,,
 3:20:05,,We three kings,,Christmas,M,,
 3:20:56,,,,,,,
