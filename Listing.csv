@@ -8,7 +8,7 @@ Time from start,Number,Name,Principal artist,Genre,Polyphonic (P)/Monophonic (M)
 0:02:51,,Pachelbel canon,Pachelbel,,P,A,
 0:03:24,,,,,P,,
 0:03:57,,Silent night,,Christmas,M,A,
-0:04:42,,Swan Lake,Tchaikovsky,Classical,P,,Also known as ""Remember"" by S.H.E.
+0:04:42,,Swan Lake,Tchaikovsky,Classical,P,,"Also known as ""Remember"" by S.H.E."
 0:05:07,,,,,P,,
 0:05:33,,,,,P,,
 0:06:39,,Clementine,,English trad.,P,,
@@ -83,7 +83,7 @@ Time from start,Number,Name,Principal artist,Genre,Polyphonic (P)/Monophonic (M)
 1:57:49,260,,,,,,
 1:58:07,261,,,,,,
 1:58:23,262,,,,,,
-1:58:36,263,Hänschen klein,,Classical,M,,Also known as ""Lightly row"" (musical exercise for children)
+1:58:36,263,Hänschen klein,,Classical,M,,"Also known as ""Lightly row"" (musical exercise for children)"
 1:58:56,264,Twinkle twinkle little star,,English trad.,M,C,Starts with an inappropriate glissando
 1:59:23,265,,,,,,
 
